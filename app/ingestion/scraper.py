@@ -1,6 +1,9 @@
 import logging
 import requests
+import json
+from requests.exceptions import HTTPError
 
+from pydantic import BaseModel, PrivateAttr
 from bs4 import BeautifulSoup
 
 from app.core.logger import setup_logging
@@ -9,34 +12,46 @@ setup_logging()
 
 logger = logging.getLogger(__name__)
 
-CHARACTERS = ["Rice_Shower"]
-BASEURL = "https://umamusu.wiki/"
-
-def scrape_data(base_url, characters):
-    for character in characters:
-        url = f"{base_url}{character}"
-        logging.info(f"Fetching url for this {character} umamusume")
-        
+BASEURL = 'https://umamusu.wiki/'
+class CharacterScraper(BaseModel):
+    base_url : str | None = BASEURL
+    data_result : list[dict] | None = []
+    _session : requests.Session = PrivateAttr(default_factory=requests.Session)
+    
+    def scrape_character(self, character_name):
+        url = f"{self.base_url}{character_name}"
+        logging.info(f"Fetching url for this {character_name} umamusume")
         reponse = requests.get(url)
-        logging.info(reponse.status_code)
-        if reponse.status_code == 200:
-            logging.info("Scraped status code 200")
-            soup = BeautifulSoup(reponse.text, 'html.parser')
-            data = []
-            
-            tag_find = soup.find_all(['h1','h2','p','tr','span'])
-            for tag in tag_find:
-                uma_data = tag.text.strip()
-                data.append(uma_data)
-            return {
-                "title" : character,
-                "url" : url,
-                "content" : " ".join(data).strip()
-            }
-     
-        else:
-            logging.info(f"Failed to scrape status code : {reponse.status_code}")
-
+        reponse.raise_for_status()
         
-data_result = scrape_data(base_url=BASEURL, characters=CHARACTERS)
-print(data_result)
+        soup = BeautifulSoup(reponse.text, 'html.parser')
+        data = []
+                
+        tag_find = soup.find_all(['h1','h2','p','tr', 'td', 'li'])
+        for tag in tag_find:
+            uma_data = tag.text.strip()
+            data.append(uma_data)
+        return {
+            "title" : character_name,
+            "url" : url,
+            "content" : " ".join(data).strip()
+        }
+    
+    def scrape_characters_list(self):
+        logger.info(f"SCRAPING DATA FROM {self.base_url}")
+        character_response = self._session.get(self.base_url + 'List_of_Characters')
+        character_response.raise_for_status()
+        soup = BeautifulSoup(character_response.text, "html.parser")
+        
+        for box in soup.find_all('div', class_ = 'name-box overflow'):
+            for char in box.find_all('a'):
+                character_name = char.text.strip()
+                self.data_result.append(self.scrape_character(character_name))
+
+        logger.info("Scrapper is succesful")
+        with open("output.json", "w", encoding="utf-8") as file:
+            json.dump(self.data_result, file, indent=4)
+               
+f = CharacterScraper()
+f.scrape_characters_list()
+
