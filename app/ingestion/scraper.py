@@ -1,16 +1,13 @@
 import logging
 import requests
 import json
-from requests.exceptions import HTTPError
 
 from pydantic import BaseModel, PrivateAttr
 from bs4 import BeautifulSoup
 
-from app.core.logger import setup_logging
+from app.core.logger import get_logger
 
-setup_logging()
-
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 BASEURL = 'https://umamusu.wiki/'
 class CharacterScraper(BaseModel):
@@ -20,7 +17,7 @@ class CharacterScraper(BaseModel):
     
     def scrape_character(self, character_name):
         url = f"{self.base_url}{character_name}"
-        logging.info(f"Fetching url for this {character_name} umamusume")
+        logger.info(f"Fetching Character data for {character_name}")
         reponse = requests.get(url)
         reponse.raise_for_status()
         
@@ -49,7 +46,7 @@ class CharacterScraper(BaseModel):
                 self.data_result.append(self.scrape_character(character_name))
 
         logger.info("Scrapper is succesful")
-        with open("output.json", "w", encoding="utf-8") as file:
+        with open("data/uma_data.json", "w", encoding="utf-8") as file:
             json.dump(self.data_result, file, indent=4)
                
 f = CharacterScraper()
