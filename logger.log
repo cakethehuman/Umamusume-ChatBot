@@ -1,3 +1,289 @@
-[2026-09-12 22:12:07] [INFO] [__main__] : SCRAPING DATA FROM https://umamusu.wiki/
-[2026-09-12 22:12:08] [INFO] [root] : Fetching url for this Admire Groove umamusume
-[2026-09-12 22:12:09] [INFO] [__main__] : Scrapper is succesful
+[2026-09-13 21:33:08] [INFO] [__main__] : SCRAPING DATA FROM https://umamusu.wiki/
+[2026-09-13 21:33:08] [INFO] [root] : Fetching url for this Admire Groove umamusume
+[2026-09-13 21:33:09] [INFO] [root] : Fetching url for this Admire Vega umamusume
+[2026-09-13 21:33:11] [INFO] [root] : Fetching url for this Agnes Digital umamusume
+[2026-09-13 21:33:11] [INFO] [root] : Fetching url for this Agnes Tachyon umamusume
+[2026-09-13 21:33:12] [INFO] [root] : Fetching url for this Air Groove umamusume
+[2026-09-13 21:33:13] [INFO] [root] : Fetching url for this Air Messiah umamusume
+[2026-09-13 21:33:13] [INFO] [root] : Fetching url for this Air Shakur umamusume
+[2026-09-13 21:33:14] [INFO] [root] : Fetching url for this Almond Eye umamusume
+[2026-09-13 21:33:15] [INFO] [root] : Fetching url for this Aston Machan umamusume
+[2026-09-13 21:33:16] [INFO] [root] : Fetching url for this Bamboo Memory umamusume
+[2026-09-13 21:33:17] [INFO] [root] : Fetching url for this Believe umamusume
+[2026-09-13 21:33:18] [INFO] [root] : Fetching url for this Biko Pegasus umamusume
+[2026-09-13 21:33:19] [INFO] [root] : Fetching url for this Biwa Hayahide umamusume
+[2026-09-13 21:33:20] [INFO] [root] : Fetching url for this Blast Onepiece umamusume
+[2026-09-13 21:33:21] [INFO] [root] : Fetching url for this Bubble Gum Fellow umamusume
+[2026-09-13 21:33:22] [INFO] [root] : Fetching url for this Buena Vista umamusume
+[2026-09-13 21:33:23] [INFO] [root] : Fetching url for this Calstone Light O umamusume
+[2026-09-13 21:33:24] [INFO] [root] : Fetching url for this Cesario umamusume
+[2026-09-13 21:33:27] [INFO] [root] : Fetching url for this Cheval Grand umamusume
+[2026-09-13 21:33:27] [INFO] [root] : Fetching url for this Chrono Genesis umamusume
+[2026-09-13 21:33:28] [INFO] [root] : Fetching url for this Copano Rickey umamusume
+[2026-09-13 21:33:29] [INFO] [root] : Fetching url for this Curren Bouquetd'or umamusume
+[2026-09-13 21:33:30] [INFO] [root] : Fetching url for this Curren Chan umamusume
+[2026-09-13 21:33:31] [INFO] [root] : Fetching url for this Daiichi Ruby umamusume
+[2026-09-13 21:33:32] [INFO] [root] : Fetching url for this Daitaku Helios umamusume
+[2026-09-13 21:33:34] [INFO] [root] : Fetching url for this Daiwa Scarlet umamusume
+[2026-09-13 21:33:34] [INFO] [root] : Fetching url for this Dantsu Flame umamusume
+[2026-09-13 21:33:35] [INFO] [root] : Fetching url for this Daring Heart umamusume
+[2026-09-13 21:33:36] [INFO] [root] : Fetching url for this Daring Tact umamusume
+[2026-09-13 21:33:36] [INFO] [root] : Fetching url for this Dream Journey umamusume
+[2026-09-13 21:33:37] [INFO] [root] : Fetching url for this Duramente umamusume
+[2026-09-13 21:33:38] [INFO] [root] : Fetching url for this Durandal umamusume
+[2026-09-13 21:33:39] [INFO] [root] : Fetching url for this Efforia umamusume
+[2026-09-13 21:33:39] [INFO] [root] : Fetching url for this Eishin Flash umamusume
+[2026-09-13 21:33:40] [INFO] [root] : Fetching url for this El Condor Pasa umamusume
+[2026-09-13 21:33:41] [INFO] [root] : Fetching url for this Epiphaneia umamusume
+[2026-09-13 21:33:41] [INFO] [root] : Fetching url for this Espoir City umamusume
+[2026-09-13 21:33:42] [INFO] [root] : Fetching url for this Fenomeno umamusume
+[2026-09-13 21:33:43] [INFO] [root] : Fetching url for this Fine Motion umamusume
+[2026-09-13 21:33:44] [INFO] [root] : Fetching url for this Forever Young umamusume
+[2026-09-13 21:33:44] [INFO] [root] : Fetching url for this Fuji Kiseki umamusume
+[2026-09-13 21:33:45] [INFO] [root] : Fetching url for this Furioso umamusume
+[2026-09-13 21:33:46] [INFO] [root] : Fetching url for this Fusaichi Pandora umamusume
+[2026-09-13 21:33:47] [INFO] [root] : Fetching url for this Gentildonna umamusume
+[2026-09-13 21:33:47] [INFO] [root] : Fetching url for this Genuine umamusume
+[2026-09-13 21:33:48] [INFO] [root] : Fetching url for this Gold City umamusume
+[2026-09-13 21:33:49] [INFO] [root] : Fetching url for this Gold Ship umamusume
+[2026-09-13 21:33:50] [INFO] [root] : Fetching url for this Gran Alegria umamusume
+[2026-09-13 21:33:51] [INFO] [root] : Fetching url for this Grass Wonder umamusume
+[2026-09-13 21:33:52] [INFO] [root] : Fetching url for this Haru Urara umamusume
+[2026-09-13 21:33:52] [INFO] [root] : Fetching url for this Hishi Akebono umamusume
+[2026-09-13 21:33:53] [INFO] [root] : Fetching url for this Hishi Amazon umamusume
+[2026-09-13 21:33:54] [INFO] [root] : Fetching url for this Hishi Miracle umamusume
+[2026-09-13 21:33:56] [INFO] [root] : Fetching url for this Hokko Tarumae umamusume
+[2026-09-13 21:33:57] [INFO] [root] : Fetching url for this Ikuno Dictus umamusume
+[2026-09-13 21:33:58] [INFO] [root] : Fetching url for this Inari One umamusume
+[2026-09-13 21:33:59] [INFO] [root] : Fetching url for this Ines Fujin umamusume
+[2026-09-13 21:33:59] [INFO] [root] : Fetching url for this Jungle Pocket umamusume
+[2026-09-13 21:34:00] [INFO] [root] : Fetching url for this K.S.Miracle umamusume
+[2026-09-13 21:34:01] [INFO] [root] : Fetching url for this Katsuragi Ace umamusume
+[2026-09-13 21:34:02] [INFO] [root] : Fetching url for this Kawakami Princess umamusume
+[2026-09-13 21:34:02] [INFO] [root] : Fetching url for this King Halo umamusume
+[2026-09-13 21:34:03] [INFO] [root] : Fetching url for this Kiseki umamusume
+[2026-09-13 21:34:04] [INFO] [root] : Fetching url for this Kitasan Black umamusume
+[2026-09-13 21:34:05] [INFO] [root] : Fetching url for this Logotype umamusume
+[2026-09-13 21:34:06] [INFO] [root] : Fetching url for this Loves Only You umamusume
+[2026-09-13 21:34:07] [INFO] [root] : Fetching url for this Lucky Lilac umamusume
+[2026-09-13 21:34:09] [INFO] [root] : Fetching url for this Manhattan Cafe umamusume
+[2026-09-13 21:34:09] [INFO] [root] : Fetching url for this Marche Lorraine umamusume
+[2026-09-13 21:34:10] [INFO] [root] : Fetching url for this Maruzensky umamusume
+[2026-09-13 21:34:11] [INFO] [root] : Fetching url for this Marvelous Sunday umamusume
+[2026-09-13 21:34:12] [INFO] [root] : Fetching url for this Matikanefukukitaru umamusume
+[2026-09-13 21:34:12] [INFO] [root] : Fetching url for this Matikanetannhauser umamusume
+[2026-09-13 21:34:13] [INFO] [root] : Fetching url for this Mayano Top Gun umamusume
+[2026-09-13 21:34:14] [INFO] [root] : Fetching url for this Meisho Doto umamusume
+[2026-09-13 21:34:14] [INFO] [root] : Fetching url for this Mejiro Ardan umamusume
+[2026-09-13 21:34:15] [INFO] [root] : Fetching url for this Mejiro Bright umamusume
+[2026-09-13 21:34:18] [INFO] [root] : Fetching url for this Mejiro Dober umamusume
+[2026-09-13 21:34:19] [INFO] [root] : Fetching url for this Mejiro McQueen umamusume
+[2026-09-13 21:34:20] [INFO] [root] : Fetching url for this Mejiro Palmer umamusume
+[2026-09-13 21:34:21] [INFO] [root] : Fetching url for this Mejiro Ramonu umamusume
+[2026-09-13 21:34:22] [INFO] [root] : Fetching url for this Mejiro Ryan umamusume
+[2026-09-13 21:34:22] [INFO] [root] : Fetching url for this Mihono Bourbon umamusume
+[2026-09-13 21:34:23] [INFO] [root] : Fetching url for this Mr. C.B. umamusume
+[2026-09-13 21:34:24] [INFO] [root] : Fetching url for this Nakayama Festa umamusume
+[2026-09-13 21:34:24] [INFO] [root] : Fetching url for this Narita Brian umamusume
+[2026-09-13 21:34:25] [INFO] [root] : Fetching url for this Narita Taishin umamusume
+[2026-09-13 21:34:26] [INFO] [root] : Fetching url for this Narita Top Road umamusume
+[2026-09-13 21:34:27] [INFO] [root] : Fetching url for this Neo Universe umamusume
+[2026-09-13 21:34:27] [INFO] [root] : Fetching url for this Nice Nature umamusume
+[2026-09-13 21:34:28] [INFO] [root] : Fetching url for this Nishino Flower umamusume
+[2026-09-13 21:34:29] [INFO] [root] : Fetching url for this No Reason umamusume
+[2026-09-13 21:34:30] [INFO] [root] : Fetching url for this North Flight umamusume
+[2026-09-13 21:34:31] [INFO] [root] : Fetching url for this Oguri Cap umamusume
+[2026-09-13 21:34:31] [INFO] [root] : Fetching url for this Orfevre umamusume
+[2026-09-13 21:34:32] [INFO] [root] : Fetching url for this Phalaenopsis umamusume
+[2026-09-13 21:34:32] [INFO] [root] : Fetching url for this Red Desire umamusume
+[2026-09-13 21:34:33] [INFO] [root] : Fetching url for this Rhein Kraft umamusume
+[2026-09-13 21:34:34] [INFO] [root] : Fetching url for this Rice Shower umamusume
+[2026-09-13 21:34:35] [INFO] [root] : Fetching url for this Rose Kingdom umamusume
+[2026-09-13 21:34:36] [INFO] [root] : Fetching url for this Royce and Royce umamusume
+[2026-09-13 21:34:36] [INFO] [root] : Fetching url for this Rulership umamusume
+[2026-09-13 21:34:37] [INFO] [root] : Fetching url for this Sakura Bakushin O umamusume
+[2026-09-13 21:34:38] [INFO] [root] : Fetching url for this Sakura Chitose O umamusume
+[2026-09-13 21:34:40] [INFO] [root] : Fetching url for this Sakura Chiyono O umamusume
+[2026-09-13 21:34:40] [INFO] [root] : Fetching url for this Sakura Laurel umamusume
+[2026-09-13 21:34:42] [INFO] [root] : Fetching url for this Samson Big umamusume
+[2026-09-13 21:34:42] [INFO] [root] : Fetching url for this Satono Crown umamusume
+[2026-09-13 21:34:43] [INFO] [root] : Fetching url for this Satono Diamond umamusume
+[2026-09-13 21:34:44] [INFO] [root] : Fetching url for this Seeking the Pearl umamusume
+[2026-09-13 21:34:45] [INFO] [root] : Fetching url for this Seiun Sky umamusume
+[2026-09-13 21:34:46] [INFO] [root] : Fetching url for this Shinko Windy umamusume
+[2026-09-13 21:34:46] [INFO] [root] : Fetching url for this Silence Suzuka umamusume
+[2026-09-13 21:34:47] [INFO] [root] : Fetching url for this Sirius Symboli umamusume
+[2026-09-13 21:34:48] [INFO] [root] : Fetching url for this Smart Falcon umamusume
+[2026-09-13 21:34:49] [INFO] [root] : Fetching url for this Sounds of Earth umamusume
+[2026-09-13 21:34:50] [INFO] [root] : Fetching url for this Special Week umamusume
+[2026-09-13 21:34:52] [INFO] [root] : Fetching url for this Stay Gold umamusume
+[2026-09-13 21:34:52] [INFO] [root] : Fetching url for this Still in Love umamusume
+[2026-09-13 21:34:53] [INFO] [root] : Fetching url for this Super Creek umamusume
+[2026-09-13 21:34:54] [INFO] [root] : Fetching url for this Sweep Tosho umamusume
+[2026-09-13 21:34:55] [INFO] [root] : Fetching url for this Symboli Kris S umamusume
+[2026-09-13 21:34:56] [INFO] [root] : Fetching url for this Symboli Rudolf umamusume
+[2026-09-13 21:34:57] [INFO] [root] : Fetching url for this T.M. Opera O umamusume
+[2026-09-13 21:34:58] [INFO] [root] : Fetching url for this Taiki Shuttle umamusume
+[2026-09-13 21:34:59] [INFO] [root] : Fetching url for this Tamamo Cross umamusume
+[2026-09-13 21:35:00] [INFO] [root] : Fetching url for this Tanino Gimlet umamusume
+[2026-09-13 21:35:00] [INFO] [root] : Fetching url for this Tap Dance City umamusume
+[2026-09-13 21:35:01] [INFO] [root] : Fetching url for this Titleholder umamusume
+[2026-09-13 21:35:02] [INFO] [root] : Fetching url for this Tokai Teio umamusume
+[2026-09-13 21:35:03] [INFO] [root] : Fetching url for this Tosen Jordan umamusume
+[2026-09-13 21:35:04] [INFO] [root] : Fetching url for this Transcend umamusume
+[2026-09-13 21:35:06] [INFO] [root] : Fetching url for this Tsurumaru Tsuyoshi umamusume
+[2026-09-13 21:35:06] [INFO] [root] : Fetching url for this Twin Turbo umamusume
+[2026-09-13 21:35:09] [INFO] [root] : Fetching url for this Verxina umamusume
+[2026-09-13 21:35:09] [INFO] [root] : Fetching url for this Victoire Pisa umamusume
+[2026-09-13 21:35:10] [INFO] [root] : Fetching url for this Vivlos umamusume
+[2026-09-13 21:35:11] [INFO] [root] : Fetching url for this Vodka umamusume
+[2026-09-13 21:35:11] [INFO] [root] : Fetching url for this Win Variation umamusume
+[2026-09-13 21:35:12] [INFO] [root] : Fetching url for this Winning Ticket umamusume
+[2026-09-13 21:35:13] [INFO] [root] : Fetching url for this Wonder Acute umamusume
+[2026-09-13 21:35:14] [INFO] [root] : Fetching url for this Yaeno Muteki umamusume
+[2026-09-13 21:35:15] [INFO] [root] : Fetching url for this Yamanin Zephyr umamusume
+[2026-09-13 21:35:16] [INFO] [root] : Fetching url for this Yukino Bijin umamusume
+[2026-09-13 21:35:17] [INFO] [root] : Fetching url for this Zenno Rob Roy umamusume
+[2026-09-13 21:35:18] [INFO] [root] : Fetching url for this Aoi Kiryuin umamusume
+[2026-09-13 21:35:19] [INFO] [root] : Fetching url for this Beauty Anshinzawa umamusume
+[2026-09-13 21:35:20] [INFO] [root] : Fetching url for this Bitter Glasse umamusume
+[2026-09-13 21:35:22] [INFO] [root] : Fetching url for this Byerley Turk umamusume
+[2026-09-13 21:35:22] [INFO] [root] : Fetching url for this Casino Drive umamusume
+[2026-09-13 21:35:23] [INFO] [root] : Fetching url for this Darley Arabian umamusume
+[2026-09-13 21:35:25] [INFO] [root] : Fetching url for this Etsuko Otonashi umamusume
+[2026-09-13 21:35:25] [INFO] [root] : Fetching url for this Godolphin Barb umamusume
+[2026-09-13 21:35:26] [INFO] [root] : Fetching url for this Haiseiko umamusume
+[2026-09-13 21:35:27] [INFO] [root] : Fetching url for this Happy Meek umamusume
+[2026-09-13 21:35:28] [INFO] [root] : Fetching url for this Junko Hosoe umamusume
+[2026-09-13 21:35:30] [INFO] [root] : Fetching url for this Kiyoko Hoshina umamusume
+[2026-09-13 21:35:30] [INFO] [root] : Fetching url for this Light Hello umamusume
+[2026-09-13 21:35:31] [INFO] [root] : Fetching url for this Little Cocon umamusume
+[2026-09-13 21:35:32] [INFO] [root] : Fetching url for this Mei Satake umamusume
+[2026-09-13 21:35:32] [INFO] [root] : Fetching url for this Misato Akasaka umamusume
+[2026-09-13 21:35:33] [INFO] [root] : Fetching url for this Montjeu umamusume
+[2026-09-13 21:35:34] [INFO] [root] : Fetching url for this Rigantona umamusume
+[2026-09-13 21:35:35] [INFO] [root] : Fetching url for this Riko Kashimoto umamusume
+[2026-09-13 21:35:36] [INFO] [root] : Fetching url for this Ryoka Tsurugi umamusume
+[2026-09-13 21:35:37] [INFO] [root] : Fetching url for this Saint Lite umamusume
+[2026-09-13 21:35:37] [INFO] [root] : Fetching url for this Sasami Anshinzawa umamusume
+[2026-09-13 21:35:38] [INFO] [root] : Fetching url for this Sonon Elfie umamusume
+[2026-09-13 21:35:39] [INFO] [root] : Fetching url for this Speed Symboli umamusume
+[2026-09-13 21:35:39] [INFO] [root] : Fetching url for this ST-2 umamusume
+[2026-09-13 21:35:40] [INFO] [root] : Fetching url for this Sugar Lights umamusume
+[2026-09-13 21:35:41] [INFO] [root] : Fetching url for this Tazuna Hayakawa umamusume
+[2026-09-13 21:35:41] [INFO] [root] : Fetching url for this Tucker Bryne umamusume
+[2026-09-13 21:35:42] [INFO] [root] : Fetching url for this Venus Paques umamusume
+[2026-09-13 21:35:43] [INFO] [root] : Fetching url for this Yayoi Akikawa umamusume
+[2026-09-13 21:35:44] [INFO] [root] : Fetching url for this Yunohana Bloom umamusume
+[2026-09-13 21:35:45] [INFO] [root] : Fetching url for this All Haiyu umamusume
+[2026-09-13 21:35:45] [INFO] [root] : Fetching url for this Bravo Day umamusume
+[2026-09-13 21:35:46] [INFO] [root] : Fetching url for this Broye umamusume
+[2026-09-13 21:35:47] [INFO] [root] : Fetching url for this Daisangen umamusume
+[2026-09-13 21:35:48] [INFO] [root] : Fetching url for this Divinity umamusume
+[2026-09-13 21:35:49] [INFO] [root] : Fetching url for this Genjitsu Steal umamusume
+[2026-09-13 21:35:50] [INFO] [root] : Fetching url for this Hana Toujou umamusume
+[2026-09-13 21:35:50] [INFO] [root] : Fetching url for this Hard Control umamusume
+[2026-09-13 21:35:52] [INFO] [root] : Fetching url for this Kuronuma umamusume
+[2026-09-13 21:35:52] [INFO] [root] : Fetching url for this Mai umamusume
+[2026-09-13 21:35:53] [INFO] [root] : Fetching url for this Minamizaka umamusume
+[2026-09-13 21:35:53] [INFO] [root] : Fetching url for this Nana Izumoto umamusume
+[2026-09-13 21:35:54] [INFO] [root] : Fetching url for this Perry Steam umamusume
+[2026-09-13 21:35:55] [INFO] [root] : Fetching url for this Queen Berry umamusume
+[2026-09-13 21:35:55] [INFO] [root] : Fetching url for this Read Fantasy umamusume
+[2026-09-13 21:35:56] [INFO] [root] : Fetching url for this Ribbon Pian umamusume
+[2026-09-13 21:35:57] [INFO] [root] : Fetching url for this River Light umamusume
+[2026-09-13 21:35:58] [INFO] [root] : Fetching url for this Ru umamusume
+[2026-09-13 21:35:59] [INFO] [root] : Fetching url for this Satono's Trainer umamusume
+[2026-09-13 21:36:00] [INFO] [root] : Fetching url for this Shima umamusume
+[2026-09-13 21:36:01] [INFO] [root] : Fetching url for this Sun Visor umamusume
+[2026-09-13 21:36:01] [INFO] [root] : Fetching url for this To-Car umamusume
+[2026-09-13 21:36:02] [INFO] [root] : Fetching url for this Trainer umamusume
+[2026-09-13 21:36:03] [INFO] [root] : Fetching url for this Trainer Okita umamusume
+[2026-09-13 21:36:04] [INFO] [root] : Fetching url for this Trainer Tanabe umamusume
+[2026-09-13 21:36:05] [INFO] [root] : Fetching url for this Xbalanque umamusume
+[2026-09-13 21:36:05] [INFO] [root] : Fetching url for this Akitsu Teio umamusume
+[2026-09-13 21:36:06] [INFO] [root] : Fetching url for this Be True On Pulse umamusume
+[2026-09-13 21:36:07] [INFO] [root] : Fetching url for this Belno Light umamusume
+[2026-09-13 21:36:07] [INFO] [root] : Fetching url for this Bethe Sugar umamusume
+[2026-09-13 21:36:08] [INFO] [root] : Fetching url for this Black Ale umamusume
+[2026-09-13 21:36:09] [INFO] [root] : Fetching url for this Bright Rock umamusume
+[2026-09-13 21:36:10] [INFO] [root] : Fetching url for this Carrie's Room umamusume
+[2026-09-13 21:36:11] [INFO] [root] : Fetching url for this Clarizza umamusume
+[2026-09-13 21:36:11] [INFO] [root] : Fetching url for this Dicta Striker umamusume
+[2026-09-13 21:36:12] [INFO] [root] : Fetching url for this Dynamu Heroine umamusume
+[2026-09-13 21:36:12] [INFO] [root] : Fetching url for this Dynamu Painter umamusume
+[2026-09-13 21:36:13] [INFO] [root] : Fetching url for this Ellerslie Pride umamusume
+[2026-09-13 21:36:14] [INFO] [root] : Fetching url for this Eve Binti umamusume
+[2026-09-13 21:36:15] [INFO] [root] : Fetching url for this Face No More umamusume
+[2026-09-13 21:36:16] [INFO] [root] : Fetching url for this Folkqueen umamusume
+[2026-09-13 21:36:16] [INFO] [root] : Fetching url for this Fujimasa March umamusume
+[2026-09-13 21:36:18] [INFO] [root] : Fetching url for this Fumino Nase umamusume
+[2026-09-13 21:36:18] [INFO] [root] : Fetching url for this Fuyuno Nakasumi umamusume
+[2026-09-13 21:36:19] [INFO] [root] : Fetching url for this Ginjirou Musaka umamusume
+[2026-09-13 21:36:19] [INFO] [root] : Fetching url for this God Hannibal umamusume
+[2026-09-13 21:36:20] [INFO] [root] : Fetching url for this Hidehito Nase umamusume
+[2026-09-13 21:36:21] [INFO] [root] : Fetching url for this Hiyori Kawamura umamusume
+[2026-09-13 21:36:22] [INFO] [root] : Fetching url for this Jo Kitahara umamusume
+[2026-09-13 21:36:23] [INFO] [root] : Fetching url for this Joy Maker umamusume
+[2026-09-13 21:36:23] [INFO] [root] : Fetching url for this Kouichi Shibasaki umamusume
+[2026-09-13 21:36:24] [INFO] [root] : Fetching url for this Kraft Univer umamusume
+[2026-09-13 21:36:25] [INFO] [root] : Fetching url for this Long Live Free umamusume
+[2026-09-13 21:36:25] [INFO] [root] : Fetching url for this Lord Royal umamusume
+[2026-09-13 21:36:26] [INFO] [root] : Fetching url for this Luna Swallow umamusume
+[2026-09-13 21:36:27] [INFO] [root] : Fetching url for this Masami Komiyama umamusume
+[2026-09-13 21:36:28] [INFO] [root] : Fetching url for this Massive Viking umamusume
+[2026-09-13 21:36:28] [INFO] [root] : Fetching url for this Meikun Tsukasa umamusume
+[2026-09-13 21:36:29] [INFO] [root] : Fetching url for this Merry Beauty umamusume
+[2026-09-13 21:36:30] [INFO] [root] : Fetching url for this Meteor Selenus umamusume
+[2026-09-13 21:36:30] [INFO] [root] : Fetching url for this Michelle My Baby umamusume
+[2026-09-13 21:36:31] [INFO] [root] : Fetching url for this Mill Wakaba umamusume
+[2026-09-13 21:36:32] [INFO] [root] : Fetching url for this Mini the Lady umamusume
+[2026-09-13 21:36:33] [INFO] [root] : Fetching url for this Miss Armagnac umamusume
+[2026-09-13 21:36:33] [INFO] [root] : Fetching url for this Moonlight Lunacy umamusume
+[2026-09-13 21:36:34] [INFO] [root] : Fetching url for this Norn Ace umamusume
+[2026-09-13 21:36:35] [INFO] [root] : Fetching url for this Obey Your Master umamusume
+[2026-09-13 21:36:36] [INFO] [root] : Fetching url for this Okan Maker umamusume
+[2026-09-13 21:36:36] [INFO] [root] : Fetching url for this Romance Bubbly umamusume
+[2026-09-13 21:36:37] [INFO] [root] : Fetching url for this Royal Cherry umamusume
+[2026-09-13 21:36:38] [INFO] [root] : Fetching url for this Rudy Lemono umamusume
+[2026-09-13 21:36:39] [INFO] [root] : Fetching url for this Run to the Top umamusume
+[2026-09-13 21:36:39] [INFO] [root] : Fetching url for this Satias umamusume
+[2026-09-13 21:36:40] [INFO] [root] : Fetching url for this School Road umamusume
+[2026-09-13 21:36:42] [INFO] [root] : Fetching url for this Sekai Touha umamusume
+[2026-09-13 21:36:42] [INFO] [root] : Fetching url for this Sensuke Fujii umamusume
+[2026-09-13 21:36:44] [INFO] [root] : Fetching url for this Shirley Sky umamusume
+[2026-09-13 21:36:45] [INFO] [root] : Fetching url for this Shirogane Adieu umamusume
+[2026-09-13 21:36:46] [INFO] [root] : Fetching url for this South Heroine umamusume
+[2026-09-13 21:36:46] [INFO] [root] : Fetching url for this Tadashi Kouchi umamusume
+[2026-09-13 21:36:47] [INFO] [root] : Fetching url for this Thief Crow umamusume
+[2026-09-13 21:36:48] [INFO] [root] : Fetching url for this Toni Bianca umamusume
+[2026-09-13 21:36:48] [INFO] [root] : Fetching url for this Top Shunbetsu umamusume
+[2026-09-13 21:36:49] [INFO] [root] : Fetching url for this Ultra Ichiban umamusume
+[2026-09-13 21:36:50] [INFO] [root] : Fetching url for this Walk Dancer umamusume
+[2026-09-13 21:36:50] [INFO] [root] : Fetching url for this Yamano Thousand umamusume
+[2026-09-13 21:36:51] [INFO] [root] : Fetching url for this Alter the Soul umamusume
+[2026-09-13 21:36:52] [INFO] [root] : Fetching url for this Amagi Happiness umamusume
+[2026-09-13 21:36:53] [INFO] [root] : Fetching url for this Celestial Pole umamusume
+[2026-09-13 21:36:53] [INFO] [root] : Fetching url for this Dance Limerick umamusume
+[2026-09-13 21:36:55] [INFO] [root] : Fetching url for this Dear Charlotte umamusume
+[2026-09-13 21:36:55] [INFO] [root] : Fetching url for this Eastern Riddle umamusume
+[2026-09-13 21:36:56] [INFO] [root] : Fetching url for this Final Third umamusume
+[2026-09-13 21:36:56] [INFO] [root] : Fetching url for this Gorou Akeishi umamusume
+[2026-09-13 21:36:57] [INFO] [root] : Fetching url for this Iris Cider umamusume
+[2026-09-13 21:36:58] [INFO] [root] : Fetching url for this Ishigami Isao umamusume
+[2026-09-13 21:36:58] [INFO] [root] : Fetching url for this Matsukaze Ryu O umamusume
+[2026-09-13 21:36:59] [INFO] [root] : Fetching url for this Miyu Kuroda umamusume
+[2026-09-13 21:37:00] [INFO] [root] : Fetching url for this Momo umamusume
+[2026-09-13 21:37:00] [INFO] [root] : Fetching url for this Monsieur Sucre umamusume
+[2026-09-13 21:37:01] [INFO] [root] : Fetching url for this North Flight's Trainer umamusume
+[2026-09-13 21:37:02] [INFO] [root] : Fetching url for this Saki Abukuma umamusume
+[2026-09-13 21:37:03] [INFO] [root] : Fetching url for this Snow in Hazard umamusume
+[2026-09-13 21:37:04] [INFO] [root] : Fetching url for this Stella Girl umamusume
+[2026-09-13 21:37:05] [INFO] [root] : Fetching url for this Sugar Nation umamusume
+[2026-09-13 21:37:05] [INFO] [root] : Fetching url for this Sugar Safety umamusume
+[2026-09-13 21:37:06] [INFO] [root] : Fetching url for this Sundance Blaze umamusume
+[2026-09-13 21:37:07] [INFO] [root] : Fetching url for this Trainer Kawase umamusume
+[2026-09-13 21:37:08] [INFO] [root] : Fetching url for this Trainer Saruno umamusume
+[2026-09-13 21:37:08] [INFO] [root] : Fetching url for this Tsubaki Akeishi umamusume
+[2026-09-13 21:37:09] [INFO] [root] : Fetching url for this Yoshino Prevail umamusume
+[2026-09-13 21:37:10] [INFO] [__main__] : Scrapper is succesful
