@@ -36,7 +36,7 @@ class CharacterScraper(BaseModel):
         }
     
     def scrape_characters_list(self):
-        logger.info("SCRAPING DATA FROM ", self.base_url)
+        logger.info(f"SCRAPING DATA FROM {self.base_url}")
         character_response = self._session.get(self.base_url + 'List_of_Characters')
         character_response.raise_for_status()
         soup = BeautifulSoup(character_response.text, "html.parser")
@@ -46,7 +46,7 @@ class CharacterScraper(BaseModel):
                 character_name = char.text.strip()
                 self.data_result.append(self.scrape_character(character_name))
 
-        logger.info("Scrapper is succesful", len(self.data_result))
+        logger.info(f"Scrapper is succesful {len(self.data_result)}")
         with open("data/uma_data.json", "w", encoding="utf-8") as file:
             json.dump(self.data_result, 
                       file, 
@@ -54,3 +54,5 @@ class CharacterScraper(BaseModel):
                       indent=4)
                
 
+f = CharacterScraper()
+f.scrape_characters_list()

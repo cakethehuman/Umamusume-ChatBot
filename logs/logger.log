@@ -287,3 +287,379 @@
 [2026-09-14 00:30:04,738] [INFO] [__main__] : Fetching Character data for Tsubaki Akeishi
 [2026-09-14 00:30:05,649] [INFO] [__main__] : Fetching Character data for Yoshino Prevail
 [2026-09-14 00:30:06,506] [INFO] [__main__] : Scrapper is succesful
+[2026-09-20 14:38:59,024] [INFO] [app.ingestion.scraper] : Fetching Character data for Admire Groove
+[2026-09-20 14:38:59,457] [INFO] [app.ingestion.scraper] : Fetching Character data for Admire Vega
+[2026-09-20 14:38:59,776] [INFO] [app.ingestion.scraper] : Fetching Character data for Agnes Digital
+[2026-09-20 14:39:00,061] [INFO] [app.ingestion.scraper] : Fetching Character data for Agnes Tachyon
+[2026-09-20 14:39:00,339] [INFO] [app.ingestion.scraper] : Fetching Character data for Air Groove
+[2026-09-20 14:39:00,634] [INFO] [app.ingestion.scraper] : Fetching Character data for Air Messiah
+[2026-09-20 14:39:01,113] [INFO] [app.ingestion.scraper] : Fetching Character data for Air Shakur
+[2026-09-20 14:39:01,387] [INFO] [app.ingestion.scraper] : Fetching Character data for Almond Eye
+[2026-09-20 14:39:01,663] [INFO] [app.ingestion.scraper] : Fetching Character data for Aston Machan
+[2026-09-20 14:39:01,974] [INFO] [app.ingestion.scraper] : Fetching Character data for Bamboo Memory
+[2026-09-20 14:39:02,255] [INFO] [app.ingestion.scraper] : Fetching Character data for Believe
+[2026-09-20 14:39:02,516] [INFO] [app.ingestion.scraper] : Fetching Character data for Biko Pegasus
+[2026-09-20 14:39:02,806] [INFO] [app.ingestion.scraper] : Fetching Character data for Biwa Hayahide
+[2026-09-20 14:39:03,077] [INFO] [app.ingestion.scraper] : Fetching Character data for Blast Onepiece
+[2026-09-20 14:39:03,343] [INFO] [app.ingestion.scraper] : Fetching Character data for Bubble Gum Fellow
+[2026-09-20 14:39:03,606] [INFO] [app.ingestion.scraper] : Fetching Character data for Buena Vista
+[2026-09-20 14:39:03,913] [INFO] [app.ingestion.scraper] : Fetching Character data for Calstone Light O
+[2026-09-20 14:39:04,211] [INFO] [app.ingestion.scraper] : Fetching Character data for Cesario
+[2026-09-20 14:39:04,478] [INFO] [app.ingestion.scraper] : Fetching Character data for Cheval Grand
+[2026-09-20 14:39:04,762] [INFO] [app.ingestion.scraper] : Fetching Character data for Chrono Genesis
+[2026-09-20 14:39:05,026] [INFO] [app.ingestion.scraper] : Fetching Character data for Copano Rickey
+[2026-09-20 14:39:05,287] [INFO] [app.ingestion.scraper] : Fetching Character data for Curren Bouquetd'or
+[2026-09-20 14:39:05,554] [INFO] [app.ingestion.scraper] : Fetching Character data for Curren Chan
+[2026-09-20 14:39:05,826] [INFO] [app.ingestion.scraper] : Fetching Character data for Daiichi Ruby
+[2026-09-20 14:39:06,095] [INFO] [app.ingestion.scraper] : Fetching Character data for Daitaku Helios
+[2026-09-20 14:39:06,362] [INFO] [app.ingestion.scraper] : Fetching Character data for Daiwa Scarlet
+[2026-09-20 14:39:06,660] [INFO] [app.ingestion.scraper] : Fetching Character data for Dantsu Flame
+[2026-09-20 14:39:06,944] [INFO] [app.ingestion.scraper] : Fetching Character data for Daring Heart
+[2026-09-20 14:39:07,232] [INFO] [app.ingestion.scraper] : Fetching Character data for Daring Tact
+[2026-09-20 14:39:07,483] [INFO] [app.ingestion.scraper] : Fetching Character data for Dream Journey
+[2026-09-20 14:39:07,778] [INFO] [app.ingestion.scraper] : Fetching Character data for Duramente
+[2026-09-20 14:39:08,098] [INFO] [app.ingestion.scraper] : Fetching Character data for Durandal
+[2026-09-20 14:39:08,399] [INFO] [app.ingestion.scraper] : Fetching Character data for Efforia
+[2026-09-20 14:39:08,667] [INFO] [app.ingestion.scraper] : Fetching Character data for Eishin Flash
+[2026-09-20 14:39:08,973] [INFO] [app.ingestion.scraper] : Fetching Character data for El Condor Pasa
+[2026-09-20 14:39:09,244] [INFO] [app.ingestion.scraper] : Fetching Character data for Epiphaneia
+[2026-09-20 14:39:09,538] [INFO] [app.ingestion.scraper] : Fetching Character data for Espoir City
+[2026-09-20 14:39:09,822] [INFO] [app.ingestion.scraper] : Fetching Character data for Fenomeno
+[2026-09-20 14:39:13,474] [INFO] [__main__] : Fetching Character data for Admire Groove
+[2026-09-20 14:39:13,774] [INFO] [__main__] : Fetching Character data for Admire Vega
+[2026-09-20 14:39:14,096] [INFO] [__main__] : Fetching Character data for Agnes Digital
+[2026-09-20 14:39:14,364] [INFO] [__main__] : Fetching Character data for Agnes Tachyon
+[2026-09-20 14:39:14,638] [INFO] [__main__] : Fetching Character data for Air Groove
+[2026-09-20 14:39:14,931] [INFO] [__main__] : Fetching Character data for Air Messiah
+[2026-09-20 14:39:15,216] [INFO] [__main__] : Fetching Character data for Air Shakur
+[2026-09-20 14:39:15,496] [INFO] [__main__] : Fetching Character data for Almond Eye
+[2026-09-20 14:39:15,757] [INFO] [__main__] : Fetching Character data for Aston Machan
+[2026-09-20 14:39:16,035] [INFO] [__main__] : Fetching Character data for Bamboo Memory
+[2026-09-20 14:39:16,294] [INFO] [__main__] : Fetching Character data for Believe
+[2026-09-20 14:39:16,566] [INFO] [__main__] : Fetching Character data for Biko Pegasus
+[2026-09-20 14:39:16,855] [INFO] [__main__] : Fetching Character data for Biwa Hayahide
+[2026-09-20 14:39:17,161] [INFO] [__main__] : Fetching Character data for Blast Onepiece
+[2026-09-20 14:39:17,437] [INFO] [__main__] : Fetching Character data for Bubble Gum Fellow
+[2026-09-20 14:39:17,711] [INFO] [__main__] : Fetching Character data for Buena Vista
+[2026-09-20 14:39:18,012] [INFO] [__main__] : Fetching Character data for Calstone Light O
+[2026-09-20 14:39:18,292] [INFO] [__main__] : Fetching Character data for Cesario
+[2026-09-20 14:39:18,573] [INFO] [__main__] : Fetching Character data for Cheval Grand
+[2026-09-20 14:39:18,869] [INFO] [__main__] : Fetching Character data for Chrono Genesis
+[2026-09-20 14:39:19,144] [INFO] [__main__] : Fetching Character data for Copano Rickey
+[2026-09-20 14:39:19,422] [INFO] [__main__] : Fetching Character data for Curren Bouquetd'or
+[2026-09-20 14:39:19,802] [INFO] [__main__] : Fetching Character data for Curren Chan
+[2026-09-20 14:39:20,105] [INFO] [__main__] : Fetching Character data for Daiichi Ruby
+[2026-09-20 14:39:20,368] [INFO] [__main__] : Fetching Character data for Daitaku Helios
+[2026-09-20 14:39:20,639] [INFO] [__main__] : Fetching Character data for Daiwa Scarlet
+[2026-09-20 14:39:20,941] [INFO] [__main__] : Fetching Character data for Dantsu Flame
+[2026-09-20 14:39:21,298] [INFO] [__main__] : Fetching Character data for Daring Heart
+[2026-09-20 14:39:21,559] [INFO] [__main__] : Fetching Character data for Daring Tact
+[2026-09-20 14:39:21,842] [INFO] [__main__] : Fetching Character data for Dream Journey
+[2026-09-20 14:39:22,146] [INFO] [__main__] : Fetching Character data for Duramente
+[2026-09-20 14:39:22,418] [INFO] [__main__] : Fetching Character data for Durandal
+[2026-09-20 14:39:22,702] [INFO] [__main__] : Fetching Character data for Efforia
+[2026-09-20 14:39:22,990] [INFO] [__main__] : Fetching Character data for Eishin Flash
+[2026-09-20 14:39:23,292] [INFO] [__main__] : Fetching Character data for El Condor Pasa
+[2026-09-20 14:39:23,588] [INFO] [__main__] : Fetching Character data for Epiphaneia
+[2026-09-20 14:39:23,862] [INFO] [__main__] : Fetching Character data for Espoir City
+[2026-09-20 14:39:24,165] [INFO] [__main__] : Fetching Character data for Fenomeno
+[2026-09-20 14:39:24,425] [INFO] [__main__] : Fetching Character data for Fine Motion
+[2026-09-20 14:39:24,706] [INFO] [__main__] : Fetching Character data for Forever Young
+[2026-09-20 14:39:25,027] [INFO] [__main__] : Fetching Character data for Fuji Kiseki
+[2026-09-20 14:39:25,311] [INFO] [__main__] : Fetching Character data for Furioso
+[2026-09-20 14:39:25,567] [INFO] [__main__] : Fetching Character data for Fusaichi Pandora
+[2026-09-20 14:39:25,857] [INFO] [__main__] : Fetching Character data for Gentildonna
+[2026-09-20 14:39:26,160] [INFO] [__main__] : Fetching Character data for Genuine
+[2026-09-20 14:39:26,457] [INFO] [__main__] : Fetching Character data for Gold City
+[2026-09-20 14:39:26,732] [INFO] [__main__] : Fetching Character data for Gold Ship
+[2026-09-20 14:39:27,058] [INFO] [__main__] : Fetching Character data for Gran Alegria
+[2026-09-20 14:39:27,361] [INFO] [__main__] : Fetching Character data for Grass Wonder
+[2026-09-20 14:39:55,934] [INFO] [__main__] : SCRAPING DATA FROM https://umamusu.wiki/
+[2026-09-20 14:39:56,757] [INFO] [__main__] : Fetching Character data for Admire Groove
+[2026-09-20 14:39:57,026] [INFO] [__main__] : Fetching Character data for Admire Vega
+[2026-09-20 14:39:57,299] [INFO] [__main__] : Fetching Character data for Agnes Digital
+[2026-09-20 14:39:57,567] [INFO] [__main__] : Fetching Character data for Agnes Tachyon
+[2026-09-20 14:39:57,847] [INFO] [__main__] : Fetching Character data for Air Groove
+[2026-09-20 14:39:58,131] [INFO] [__main__] : Fetching Character data for Air Messiah
+[2026-09-20 14:39:58,407] [INFO] [__main__] : Fetching Character data for Air Shakur
+[2026-09-20 14:39:58,673] [INFO] [__main__] : Fetching Character data for Almond Eye
+[2026-09-20 14:39:58,948] [INFO] [__main__] : Fetching Character data for Aston Machan
+[2026-09-20 14:39:59,221] [INFO] [__main__] : Fetching Character data for Bamboo Memory
+[2026-09-20 14:39:59,493] [INFO] [__main__] : Fetching Character data for Believe
+[2026-09-20 14:39:59,752] [INFO] [__main__] : Fetching Character data for Biko Pegasus
+[2026-09-20 14:40:00,031] [INFO] [__main__] : Fetching Character data for Biwa Hayahide
+[2026-09-20 14:40:00,329] [INFO] [__main__] : Fetching Character data for Blast Onepiece
+[2026-09-20 14:40:00,587] [INFO] [__main__] : Fetching Character data for Bubble Gum Fellow
+[2026-09-20 14:40:00,846] [INFO] [__main__] : Fetching Character data for Buena Vista
+[2026-09-20 14:40:01,113] [INFO] [__main__] : Fetching Character data for Calstone Light O
+[2026-09-20 14:40:01,389] [INFO] [__main__] : Fetching Character data for Cesario
+[2026-09-20 14:40:01,652] [INFO] [__main__] : Fetching Character data for Cheval Grand
+[2026-09-20 14:40:01,912] [INFO] [__main__] : Fetching Character data for Chrono Genesis
+[2026-09-20 14:40:02,180] [INFO] [__main__] : Fetching Character data for Copano Rickey
+[2026-09-20 14:40:02,447] [INFO] [__main__] : Fetching Character data for Curren Bouquetd'or
+[2026-09-20 14:40:02,697] [INFO] [__main__] : Fetching Character data for Curren Chan
+[2026-09-20 14:40:02,960] [INFO] [__main__] : Fetching Character data for Daiichi Ruby
+[2026-09-20 14:40:03,223] [INFO] [__main__] : Fetching Character data for Daitaku Helios
+[2026-09-20 14:40:03,482] [INFO] [__main__] : Fetching Character data for Daiwa Scarlet
+[2026-09-20 14:40:04,040] [INFO] [__main__] : Fetching Character data for Dantsu Flame
+[2026-09-20 14:40:04,376] [INFO] [__main__] : Fetching Character data for Daring Heart
+[2026-09-20 14:40:04,661] [INFO] [__main__] : Fetching Character data for Daring Tact
+[2026-09-20 14:40:04,936] [INFO] [__main__] : Fetching Character data for Dream Journey
+[2026-09-20 14:40:05,251] [INFO] [__main__] : Fetching Character data for Duramente
+[2026-09-20 14:40:05,545] [INFO] [__main__] : Fetching Character data for Durandal
+[2026-09-20 14:40:05,839] [INFO] [__main__] : Fetching Character data for Efforia
+[2026-09-20 14:40:06,124] [INFO] [__main__] : Fetching Character data for Eishin Flash
+[2026-09-20 14:40:06,445] [INFO] [__main__] : Fetching Character data for El Condor Pasa
+[2026-09-20 14:40:06,755] [INFO] [__main__] : Fetching Character data for Epiphaneia
+[2026-09-20 14:40:07,059] [INFO] [__main__] : Fetching Character data for Espoir City
+[2026-09-20 14:40:07,366] [INFO] [__main__] : Fetching Character data for Fenomeno
+[2026-09-20 14:40:07,689] [INFO] [__main__] : Fetching Character data for Fine Motion
+[2026-09-20 14:40:08,013] [INFO] [__main__] : Fetching Character data for Forever Young
+[2026-09-20 14:40:08,287] [INFO] [__main__] : Fetching Character data for Fuji Kiseki
+[2026-09-20 14:40:08,590] [INFO] [__main__] : Fetching Character data for Furioso
+[2026-09-20 14:40:08,897] [INFO] [__main__] : Fetching Character data for Fusaichi Pandora
+[2026-09-20 14:40:09,362] [INFO] [__main__] : Fetching Character data for Gentildonna
+[2026-09-20 14:40:09,688] [INFO] [__main__] : Fetching Character data for Genuine
+[2026-09-20 14:40:10,024] [INFO] [__main__] : Fetching Character data for Gold City
+[2026-09-20 14:40:10,394] [INFO] [__main__] : Fetching Character data for Gold Ship
+[2026-09-20 14:40:10,758] [INFO] [__main__] : Fetching Character data for Gran Alegria
+[2026-09-20 14:40:11,050] [INFO] [__main__] : Fetching Character data for Grass Wonder
+[2026-09-20 14:40:11,413] [INFO] [__main__] : Fetching Character data for Haru Urara
+[2026-09-20 14:40:11,766] [INFO] [__main__] : Fetching Character data for Hishi Akebono
+[2026-09-20 14:40:12,084] [INFO] [__main__] : Fetching Character data for Hishi Amazon
+[2026-09-20 14:40:12,384] [INFO] [__main__] : Fetching Character data for Hishi Miracle
+[2026-09-20 14:40:12,752] [INFO] [__main__] : Fetching Character data for Hokko Tarumae
+[2026-09-20 14:40:13,048] [INFO] [__main__] : Fetching Character data for Ikuno Dictus
+[2026-09-20 14:40:13,359] [INFO] [__main__] : Fetching Character data for Inari One
+[2026-09-20 14:40:13,664] [INFO] [__main__] : Fetching Character data for Ines Fujin
+[2026-09-20 14:40:14,070] [INFO] [__main__] : Fetching Character data for Jungle Pocket
+[2026-09-20 14:40:14,509] [INFO] [__main__] : Fetching Character data for K.S.Miracle
+[2026-09-20 14:40:14,864] [INFO] [__main__] : Fetching Character data for Katsuragi Ace
+[2026-09-20 14:40:15,199] [INFO] [__main__] : Fetching Character data for Kawakami Princess
+[2026-09-20 14:40:15,502] [INFO] [__main__] : Fetching Character data for King Halo
+[2026-09-20 14:40:15,813] [INFO] [__main__] : Fetching Character data for Kiseki
+[2026-09-20 14:40:16,125] [INFO] [__main__] : Fetching Character data for Kitasan Black
+[2026-09-20 14:40:16,443] [INFO] [__main__] : Fetching Character data for Logotype
+[2026-09-20 14:40:16,724] [INFO] [__main__] : Fetching Character data for Loves Only You
+[2026-09-20 14:40:17,032] [INFO] [__main__] : Fetching Character data for Lucky Lilac
+[2026-09-20 14:40:17,337] [INFO] [__main__] : Fetching Character data for Manhattan Cafe
+[2026-09-20 14:40:17,650] [INFO] [__main__] : Fetching Character data for Marche Lorraine
+[2026-09-20 14:40:17,935] [INFO] [__main__] : Fetching Character data for Maruzensky
+[2026-09-20 14:40:18,281] [INFO] [__main__] : Fetching Character data for Marvelous Sunday
+[2026-09-20 14:40:18,589] [INFO] [__main__] : Fetching Character data for Matikanefukukitaru
+[2026-09-20 14:40:18,926] [INFO] [__main__] : Fetching Character data for Matikanetannhauser
+[2026-09-20 14:40:19,255] [INFO] [__main__] : Fetching Character data for Mayano Top Gun
+[2026-09-20 14:40:19,591] [INFO] [__main__] : Fetching Character data for Meisho Doto
+[2026-09-20 14:40:20,032] [INFO] [__main__] : Fetching Character data for Mejiro Ardan
+[2026-09-20 14:40:20,339] [INFO] [__main__] : Fetching Character data for Mejiro Bright
+[2026-09-20 14:40:20,657] [INFO] [__main__] : Fetching Character data for Mejiro Dober
+[2026-09-20 14:40:20,981] [INFO] [__main__] : Fetching Character data for Mejiro McQueen
+[2026-09-20 14:40:21,354] [INFO] [__main__] : Fetching Character data for Mejiro Palmer
+[2026-09-20 14:40:21,668] [INFO] [__main__] : Fetching Character data for Mejiro Ramonu
+[2026-09-20 14:40:21,964] [INFO] [__main__] : Fetching Character data for Mejiro Ryan
+[2026-09-20 14:40:22,282] [INFO] [__main__] : Fetching Character data for Mihono Bourbon
+[2026-09-20 14:40:22,599] [INFO] [__main__] : Fetching Character data for Mr. C.B.
+[2026-09-20 14:40:22,910] [INFO] [__main__] : Fetching Character data for Nakayama Festa
+[2026-09-20 14:40:23,220] [INFO] [__main__] : Fetching Character data for Narita Brian
+[2026-09-20 14:40:23,594] [INFO] [__main__] : Fetching Character data for Narita Taishin
+[2026-09-20 14:40:23,901] [INFO] [__main__] : Fetching Character data for Narita Top Road
+[2026-09-20 14:40:24,201] [INFO] [__main__] : Fetching Character data for Neo Universe
+[2026-09-20 14:40:24,499] [INFO] [__main__] : Fetching Character data for Nice Nature
+[2026-09-20 14:40:24,816] [INFO] [__main__] : Fetching Character data for Nishino Flower
+[2026-09-20 14:40:25,128] [INFO] [__main__] : Fetching Character data for No Reason
+[2026-09-20 14:40:25,484] [INFO] [__main__] : Fetching Character data for North Flight
+[2026-09-20 14:40:25,783] [INFO] [__main__] : Fetching Character data for Oguri Cap
+[2026-09-20 14:40:26,136] [INFO] [__main__] : Fetching Character data for Orfevre
+[2026-09-20 14:40:26,476] [INFO] [__main__] : Fetching Character data for Phalaenopsis
+[2026-09-20 14:40:26,759] [INFO] [__main__] : Fetching Character data for Red Desire
+[2026-09-20 14:40:27,100] [INFO] [__main__] : Fetching Character data for Rhein Kraft
+[2026-09-20 14:40:27,413] [INFO] [__main__] : Fetching Character data for Rice Shower
+[2026-09-20 14:40:27,757] [INFO] [__main__] : Fetching Character data for Rose Kingdom
+[2026-09-20 14:40:28,088] [INFO] [__main__] : Fetching Character data for Royce and Royce
+[2026-09-20 14:40:28,380] [INFO] [__main__] : Fetching Character data for Rulership
+[2026-09-20 14:40:28,680] [INFO] [__main__] : Fetching Character data for Sakura Bakushin O
+[2026-09-20 14:40:28,983] [INFO] [__main__] : Fetching Character data for Sakura Chitose O
+[2026-09-20 14:40:29,269] [INFO] [__main__] : Fetching Character data for Sakura Chiyono O
+[2026-09-20 14:40:29,585] [INFO] [__main__] : Fetching Character data for Sakura Laurel
+[2026-09-20 14:40:29,899] [INFO] [__main__] : Fetching Character data for Samson Big
+[2026-09-20 14:40:30,178] [INFO] [__main__] : Fetching Character data for Satono Crown
+[2026-09-20 14:40:30,459] [INFO] [__main__] : Fetching Character data for Satono Diamond
+[2026-09-20 14:40:30,824] [INFO] [__main__] : Fetching Character data for Seeking the Pearl
+[2026-09-20 14:40:31,131] [INFO] [__main__] : Fetching Character data for Seiun Sky
+[2026-09-20 14:40:31,449] [INFO] [__main__] : Fetching Character data for Shinko Windy
+[2026-09-20 14:40:31,745] [INFO] [__main__] : Fetching Character data for Silence Suzuka
+[2026-09-20 14:40:32,084] [INFO] [__main__] : Fetching Character data for Sirius Symboli
+[2026-09-20 14:40:32,390] [INFO] [__main__] : Fetching Character data for Smart Falcon
+[2026-09-20 14:40:32,691] [INFO] [__main__] : Fetching Character data for Sounds of Earth
+[2026-09-20 14:40:32,992] [INFO] [__main__] : Fetching Character data for Special Week
+[2026-09-20 14:40:33,309] [INFO] [__main__] : Fetching Character data for Stay Gold
+[2026-09-20 14:40:33,656] [INFO] [__main__] : Fetching Character data for Still in Love
+[2026-09-20 14:40:33,959] [INFO] [__main__] : Fetching Character data for Super Creek
+[2026-09-20 14:40:34,270] [INFO] [__main__] : Fetching Character data for Sweep Tosho
+[2026-09-20 14:40:34,573] [INFO] [__main__] : Fetching Character data for Symboli Kris S
+[2026-09-20 14:40:34,912] [INFO] [__main__] : Fetching Character data for Symboli Rudolf
+[2026-09-20 14:40:35,235] [INFO] [__main__] : Fetching Character data for T.M. Opera O
+[2026-09-20 14:40:35,541] [INFO] [__main__] : Fetching Character data for Taiki Shuttle
+[2026-09-20 14:40:35,844] [INFO] [__main__] : Fetching Character data for Tamamo Cross
+[2026-09-20 14:40:36,169] [INFO] [__main__] : Fetching Character data for Tanino Gimlet
+[2026-09-20 14:40:36,511] [INFO] [__main__] : Fetching Character data for Tap Dance City
+[2026-09-20 14:40:36,804] [INFO] [__main__] : Fetching Character data for Titleholder
+[2026-09-20 14:40:37,107] [INFO] [__main__] : Fetching Character data for Tokai Teio
+[2026-09-20 14:40:37,429] [INFO] [__main__] : Fetching Character data for Tosen Jordan
+[2026-09-20 14:40:37,732] [INFO] [__main__] : Fetching Character data for Transcend
+[2026-09-20 14:40:38,025] [INFO] [__main__] : Fetching Character data for Tsurumaru Tsuyoshi
+[2026-09-20 14:40:38,321] [INFO] [__main__] : Fetching Character data for Twin Turbo
+[2026-09-20 14:40:38,657] [INFO] [__main__] : Fetching Character data for Verxina
+[2026-09-20 14:40:38,972] [INFO] [__main__] : Fetching Character data for Victoire Pisa
+[2026-09-20 14:40:39,294] [INFO] [__main__] : Fetching Character data for Vivlos
+[2026-09-20 14:40:39,606] [INFO] [__main__] : Fetching Character data for Vodka
+[2026-09-20 14:40:39,921] [INFO] [__main__] : Fetching Character data for Win Variation
+[2026-09-20 14:40:40,216] [INFO] [__main__] : Fetching Character data for Winning Ticket
+[2026-09-20 14:40:40,553] [INFO] [__main__] : Fetching Character data for Wonder Acute
+[2026-09-20 14:40:40,865] [INFO] [__main__] : Fetching Character data for Yaeno Muteki
+[2026-09-20 14:40:41,171] [INFO] [__main__] : Fetching Character data for Yamanin Zephyr
+[2026-09-20 14:40:41,486] [INFO] [__main__] : Fetching Character data for Yukino Bijin
+[2026-09-20 14:40:41,969] [INFO] [__main__] : Fetching Character data for Zenno Rob Roy
+[2026-09-20 14:40:42,282] [INFO] [__main__] : Fetching Character data for Aoi Kiryuin
+[2026-09-20 14:40:42,607] [INFO] [__main__] : Fetching Character data for Beauty Anshinzawa
+[2026-09-20 14:40:42,873] [INFO] [__main__] : Fetching Character data for Bitter Glasse
+[2026-09-20 14:40:43,137] [INFO] [__main__] : Fetching Character data for Byerley Turk
+[2026-09-20 14:40:43,406] [INFO] [__main__] : Fetching Character data for Casino Drive
+[2026-09-20 14:40:43,687] [INFO] [__main__] : Fetching Character data for Darley Arabian
+[2026-09-20 14:40:43,962] [INFO] [__main__] : Fetching Character data for Etsuko Otonashi
+[2026-09-20 14:40:44,279] [INFO] [__main__] : Fetching Character data for Godolphin Barb
+[2026-09-20 14:40:44,571] [INFO] [__main__] : Fetching Character data for Haiseiko
+[2026-09-20 14:40:44,852] [INFO] [__main__] : Fetching Character data for Happy Meek
+[2026-09-20 14:40:45,136] [INFO] [__main__] : Fetching Character data for Junko Hosoe
+[2026-09-20 14:40:45,398] [INFO] [__main__] : Fetching Character data for Kiyoko Hoshina
+[2026-09-20 14:40:45,679] [INFO] [__main__] : Fetching Character data for Light Hello
+[2026-09-20 14:40:45,972] [INFO] [__main__] : Fetching Character data for Little Cocon
+[2026-09-20 14:40:46,244] [INFO] [__main__] : Fetching Character data for Mei Satake
+[2026-09-20 14:40:46,541] [INFO] [__main__] : Fetching Character data for Misato Akasaka
+[2026-09-20 14:40:46,814] [INFO] [__main__] : Fetching Character data for Montjeu
+[2026-09-20 14:40:47,335] [INFO] [__main__] : Fetching Character data for Rigantona
+[2026-09-20 14:40:47,604] [INFO] [__main__] : Fetching Character data for Riko Kashimoto
+[2026-09-20 14:40:47,887] [INFO] [__main__] : Fetching Character data for Ryoka Tsurugi
+[2026-09-20 14:40:48,148] [INFO] [__main__] : Fetching Character data for Saint Lite
+[2026-09-20 14:40:48,424] [INFO] [__main__] : Fetching Character data for Sasami Anshinzawa
+[2026-09-20 14:40:48,686] [INFO] [__main__] : Fetching Character data for Sonon Elfie
+[2026-09-20 14:40:48,980] [INFO] [__main__] : Fetching Character data for Speed Symboli
+[2026-09-20 14:40:49,256] [INFO] [__main__] : Fetching Character data for ST-2
+[2026-09-20 14:40:49,526] [INFO] [__main__] : Fetching Character data for Sugar Lights
+[2026-09-20 14:40:49,798] [INFO] [__main__] : Fetching Character data for Tazuna Hayakawa
+[2026-09-20 14:40:50,093] [INFO] [__main__] : Fetching Character data for Tucker Bryne
+[2026-09-20 14:40:50,368] [INFO] [__main__] : Fetching Character data for Venus Paques
+[2026-09-20 14:40:50,653] [INFO] [__main__] : Fetching Character data for Yayoi Akikawa
+[2026-09-20 14:40:50,920] [INFO] [__main__] : Fetching Character data for Yunohana Bloom
+[2026-09-20 14:40:51,183] [INFO] [__main__] : Fetching Character data for All Haiyu
+[2026-09-20 14:40:51,444] [INFO] [__main__] : Fetching Character data for Bravo Day
+[2026-09-20 14:40:51,703] [INFO] [__main__] : Fetching Character data for Broye
+[2026-09-20 14:40:51,963] [INFO] [__main__] : Fetching Character data for Daisangen
+[2026-09-20 14:40:52,226] [INFO] [__main__] : Fetching Character data for Divinity
+[2026-09-20 14:40:52,525] [INFO] [__main__] : Fetching Character data for Genjitsu Steal
+[2026-09-20 14:40:52,799] [INFO] [__main__] : Fetching Character data for Hana Toujou
+[2026-09-20 14:40:53,069] [INFO] [__main__] : Fetching Character data for Hard Control
+[2026-09-20 14:40:53,339] [INFO] [__main__] : Fetching Character data for Kuronuma
+[2026-09-20 14:40:53,608] [INFO] [__main__] : Fetching Character data for Mai
+[2026-09-20 14:40:53,873] [INFO] [__main__] : Fetching Character data for Minamizaka
+[2026-09-20 14:40:54,136] [INFO] [__main__] : Fetching Character data for Nana Izumoto
+[2026-09-20 14:40:54,429] [INFO] [__main__] : Fetching Character data for Perry Steam
+[2026-09-20 14:40:54,695] [INFO] [__main__] : Fetching Character data for Queen Berry
+[2026-09-20 14:40:54,971] [INFO] [__main__] : Fetching Character data for Read Fantasy
+[2026-09-20 14:40:55,248] [INFO] [__main__] : Fetching Character data for Ribbon Pian
+[2026-09-20 14:40:55,527] [INFO] [__main__] : Fetching Character data for River Light
+[2026-09-20 14:40:55,795] [INFO] [__main__] : Fetching Character data for Ru
+[2026-09-20 14:40:56,071] [INFO] [__main__] : Fetching Character data for Satono's Trainer
+[2026-09-20 14:40:56,345] [INFO] [__main__] : Fetching Character data for Shima
+[2026-09-20 14:40:56,620] [INFO] [__main__] : Fetching Character data for Sun Visor
+[2026-09-20 14:40:56,885] [INFO] [__main__] : Fetching Character data for To-Car
+[2026-09-20 14:40:57,192] [INFO] [__main__] : Fetching Character data for Trainer
+[2026-09-20 14:40:57,457] [INFO] [__main__] : Fetching Character data for Trainer Okita
+[2026-09-20 14:40:57,731] [INFO] [__main__] : Fetching Character data for Trainer Tanabe
+[2026-09-20 14:40:58,026] [INFO] [__main__] : Fetching Character data for Xbalanque
+[2026-09-20 14:40:58,321] [INFO] [__main__] : Fetching Character data for Akitsu Teio
+[2026-09-20 14:40:58,620] [INFO] [__main__] : Fetching Character data for Be True On Pulse
+[2026-09-20 14:40:58,883] [INFO] [__main__] : Fetching Character data for Belno Light
+[2026-09-20 14:40:59,151] [INFO] [__main__] : Fetching Character data for Bethe Sugar
+[2026-09-20 14:40:59,414] [INFO] [__main__] : Fetching Character data for Black Ale
+[2026-09-20 14:40:59,690] [INFO] [__main__] : Fetching Character data for Bright Rock
+[2026-09-20 14:40:59,975] [INFO] [__main__] : Fetching Character data for Carrie's Room
+[2026-09-20 14:41:00,274] [INFO] [__main__] : Fetching Character data for Clarizza
+[2026-09-20 14:41:00,566] [INFO] [__main__] : Fetching Character data for Dicta Striker
+[2026-09-20 14:41:00,828] [INFO] [__main__] : Fetching Character data for Dynamu Heroine
+[2026-09-20 14:41:01,102] [INFO] [__main__] : Fetching Character data for Dynamu Painter
+[2026-09-20 14:41:01,362] [INFO] [__main__] : Fetching Character data for Ellerslie Pride
+[2026-09-20 14:41:01,630] [INFO] [__main__] : Fetching Character data for Eve Binti
+[2026-09-20 14:41:01,909] [INFO] [__main__] : Fetching Character data for Face No More
+[2026-09-20 14:41:02,178] [INFO] [__main__] : Fetching Character data for Folkqueen
+[2026-09-20 14:41:02,433] [INFO] [__main__] : Fetching Character data for Fujimasa March
+[2026-09-20 14:41:02,708] [INFO] [__main__] : Fetching Character data for Fumino Nase
+[2026-09-20 14:41:03,019] [INFO] [__main__] : Fetching Character data for Fuyuno Nakasumi
+[2026-09-20 14:41:03,315] [INFO] [__main__] : Fetching Character data for Ginjirou Musaka
+[2026-09-20 14:41:03,610] [INFO] [__main__] : Fetching Character data for God Hannibal
+[2026-09-20 14:41:03,903] [INFO] [__main__] : Fetching Character data for Hidehito Nase
+[2026-09-20 14:41:04,171] [INFO] [__main__] : Fetching Character data for Hiyori Kawamura
+[2026-09-20 14:41:04,441] [INFO] [__main__] : Fetching Character data for Jo Kitahara
+[2026-09-20 14:41:04,724] [INFO] [__main__] : Fetching Character data for Joy Maker
+[2026-09-20 14:41:04,992] [INFO] [__main__] : Fetching Character data for Kouichi Shibasaki
+[2026-09-20 14:41:05,253] [INFO] [__main__] : Fetching Character data for Kraft Univer
+[2026-09-20 14:41:05,577] [INFO] [__main__] : Fetching Character data for Long Live Free
+[2026-09-20 14:41:05,867] [INFO] [__main__] : Fetching Character data for Lord Royal
+[2026-09-20 14:41:06,164] [INFO] [__main__] : Fetching Character data for Luna Swallow
+[2026-09-20 14:41:06,432] [INFO] [__main__] : Fetching Character data for Masami Komiyama
+[2026-09-20 14:41:06,717] [INFO] [__main__] : Fetching Character data for Massive Viking
+[2026-09-20 14:41:06,975] [INFO] [__main__] : Fetching Character data for Meikun Tsukasa
+[2026-09-20 14:41:07,243] [INFO] [__main__] : Fetching Character data for Merry Beauty
+[2026-09-20 14:41:07,510] [INFO] [__main__] : Fetching Character data for Meteor Selenus
+[2026-09-20 14:41:07,775] [INFO] [__main__] : Fetching Character data for Michelle My Baby
+[2026-09-20 14:41:08,062] [INFO] [__main__] : Fetching Character data for Mill Wakaba
+[2026-09-20 14:41:08,327] [INFO] [__main__] : Fetching Character data for Mini the Lady
+[2026-09-20 14:41:08,646] [INFO] [__main__] : Fetching Character data for Miss Armagnac
+[2026-09-20 14:41:08,907] [INFO] [__main__] : Fetching Character data for Moonlight Lunacy
+[2026-09-20 14:41:09,181] [INFO] [__main__] : Fetching Character data for Norn Ace
+[2026-09-20 14:41:09,452] [INFO] [__main__] : Fetching Character data for Obey Your Master
+[2026-09-20 14:41:09,725] [INFO] [__main__] : Fetching Character data for Okan Maker
+[2026-09-20 14:41:09,977] [INFO] [__main__] : Fetching Character data for Romance Bubbly
+[2026-09-20 14:41:10,244] [INFO] [__main__] : Fetching Character data for Royal Cherry
+[2026-09-20 14:41:10,568] [INFO] [__main__] : Fetching Character data for Rudy Lemono
+[2026-09-20 14:41:10,869] [INFO] [__main__] : Fetching Character data for Run to the Top
+[2026-09-20 14:41:11,137] [INFO] [__main__] : Fetching Character data for Satias
+[2026-09-20 14:41:11,430] [INFO] [__main__] : Fetching Character data for School Road
+[2026-09-20 14:41:11,690] [INFO] [__main__] : Fetching Character data for Sekai Touha
+[2026-09-20 14:41:11,961] [INFO] [__main__] : Fetching Character data for Sensuke Fujii
+[2026-09-20 14:41:12,217] [INFO] [__main__] : Fetching Character data for Shirley Sky
+[2026-09-20 14:41:12,499] [INFO] [__main__] : Fetching Character data for Shirogane Adieu
+[2026-09-20 14:41:12,772] [INFO] [__main__] : Fetching Character data for South Heroine
+[2026-09-20 14:41:13,047] [INFO] [__main__] : Fetching Character data for Tadashi Kouchi
+[2026-09-20 14:41:13,316] [INFO] [__main__] : Fetching Character data for Thief Crow
+[2026-09-20 14:41:13,582] [INFO] [__main__] : Fetching Character data for Toni Bianca
+[2026-09-20 14:41:13,867] [INFO] [__main__] : Fetching Character data for Top Shunbetsu
+[2026-09-20 14:41:14,134] [INFO] [__main__] : Fetching Character data for Ultra Ichiban
+[2026-09-20 14:41:14,398] [INFO] [__main__] : Fetching Character data for Walk Dancer
+[2026-09-20 14:41:14,702] [INFO] [__main__] : Fetching Character data for Yamano Thousand
+[2026-09-20 14:41:14,965] [INFO] [__main__] : Fetching Character data for Alter the Soul
+[2026-09-20 14:41:15,233] [INFO] [__main__] : Fetching Character data for Amagi Happiness
+[2026-09-20 14:41:15,497] [INFO] [__main__] : Fetching Character data for Celestial Pole
+[2026-09-20 14:41:15,758] [INFO] [__main__] : Fetching Character data for Dance Limerick
+[2026-09-20 14:41:16,033] [INFO] [__main__] : Fetching Character data for Dear Charlotte
+[2026-09-20 14:41:16,313] [INFO] [__main__] : Fetching Character data for Eastern Riddle
+[2026-09-20 14:41:16,589] [INFO] [__main__] : Fetching Character data for Final Third
+[2026-09-20 14:41:16,888] [INFO] [__main__] : Fetching Character data for Gorou Akeishi
+[2026-09-20 14:41:17,148] [INFO] [__main__] : Fetching Character data for Iris Cider
+[2026-09-20 14:41:17,450] [INFO] [__main__] : Fetching Character data for Ishigami Isao
+[2026-09-20 14:41:17,719] [INFO] [__main__] : Fetching Character data for Matsukaze Ryu O
+[2026-09-20 14:41:18,007] [INFO] [__main__] : Fetching Character data for Miyu Kuroda
+[2026-09-20 14:41:18,290] [INFO] [__main__] : Fetching Character data for Momo
+[2026-09-20 14:41:18,572] [INFO] [__main__] : Fetching Character data for Monsieur Sucre
+[2026-09-20 14:41:18,861] [INFO] [__main__] : Fetching Character data for North Flight's Trainer
+[2026-09-20 14:41:19,137] [INFO] [__main__] : Fetching Character data for Saki Abukuma
+[2026-09-20 14:41:19,407] [INFO] [__main__] : Fetching Character data for Snow in Hazard
+[2026-09-20 14:41:19,685] [INFO] [__main__] : Fetching Character data for Stella Girl
+[2026-09-20 14:41:19,992] [INFO] [__main__] : Fetching Character data for Sugar Nation
+[2026-09-20 14:41:20,270] [INFO] [__main__] : Fetching Character data for Sugar Safety
+[2026-09-20 14:41:20,552] [INFO] [__main__] : Fetching Character data for Sundance Blaze
+[2026-09-20 14:41:20,855] [INFO] [__main__] : Fetching Character data for Trainer Kawase
+[2026-09-20 14:41:21,145] [INFO] [__main__] : Fetching Character data for Trainer Saruno
+[2026-09-20 14:41:21,437] [INFO] [__main__] : Fetching Character data for Tsubaki Akeishi
+[2026-09-20 14:41:21,712] [INFO] [__main__] : Fetching Character data for Yoshino Prevail
+[2026-09-20 14:41:22,031] [INFO] [__main__] : Scrapper is succesful 287
